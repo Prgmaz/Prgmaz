@@ -40,6 +40,8 @@
 
 ### Checkout my Latest Videos
 <!-- YOUTUBE-LIST:START -->
+- [Cool Video Showcase I made.](https://www.youtube.com/watch?v=wxF56WKPVLs)
+- [ALL-IN-ONE Social Media | Tutorial | Basic Projects](https://www.youtube.com/watch?v=kCfYysjpI2c)
 <!-- YOUTUBE-LIST:END -->
 
 <h3 align="left">Github Stats: </h3>
