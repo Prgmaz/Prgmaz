@@ -40,7 +40,7 @@
 
 ### Checkout my Latest Videos
 <!-- YOUTUBE-LIST:START -->
-<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
 
 <h3 align="left">Github Stats: </h3>
 
