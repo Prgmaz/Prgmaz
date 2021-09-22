@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### Checkout my Latest Blogs
+### Checkout my Latest Videos
 <!-- YOUTUBE-LIST:START -->
 <!-- YOUTUBE-LIST:START -->
 
