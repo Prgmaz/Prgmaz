@@ -30,6 +30,11 @@
 
 ### Checkout my Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [All-In-One Social Media Page](https://programmer101n.com/2021/07/05/all-in-one-social-media-page.html)
+- [Codetantra Programming Lab Solutions (Copy/Paste)](https://programmer101n.com/2021/06/15/codetantra-lab-solutions.html)
+- [Password Generator with NodeJS](https://programmer101n.com/2021/06/07/password-generator-with-nodejs.html)
+- [Projects to create with NodeJS in 2021](https://programmer101n.com/2021/05/30/projects-to-create-with-nodejs.html)
+- [Create Bot for your Discord server.](https://programmer101n.com/2021/05/26/create-bot-for-your-discord-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Github Stats: </h3>
