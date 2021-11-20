@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 📝 I regularly write articles on [programmer101n.com](programmer101n.com)
+- 📝 I regularly write articles on [programmer101n.github.io](https://programmer101n.github.io)
 
 - 💬 Ask me about **anything related to programming**
 
