@@ -1,28 +1,28 @@
 <h1 align="center">Hi 👋, I'm Naman Baranwal</h1>
 <h3 align="center">Born to code, Will die for code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer101n&label=Profile%20views&color=0e75b6&style=flat" alt="programmer101n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prgmaz&label=Profile%20views&color=0e75b6&style=flat" alt="prgmaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmer101n" alt="programmer101n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prgmaz" alt="prgmaz" /></a> </p>
 
 - 🔭 I’m currently working on **Deep learning**
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 📝 I regularly write articles on [programmer101n.github.io](https://programmer101n.github.io)
+- 📝 I regularly write articles on [prgmaz.github.io](https://prgmaz.github.io)
 
 - 💬 Ask me about **anything related to programming**
 
-- 📫 How to reach me **programmer101n@gmail.com**
+- 📫 How to reach me **prgmaz@gmail.com**
 
 - ⚡ Fun fact **I like cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prgmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="programmer101n" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/programmer101n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="programmer101n" height="30" width="40" /></a>
-<a href="https://fb.com/programmer101n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="programmer101n" height="30" width="40" /></a>
-<a href="https://instagram.com/prgmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="programmer101n" height="30" width="40" /></a>
+<a href="https://twitter.com/prgmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prgmaz" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prgmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prgmaz" height="30" width="40" /></a>
+<a href="https://fb.com/prgmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prgmaz" height="30" width="40" /></a>
+<a href="https://instagram.com/prgmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prgmaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,11 +30,11 @@
 
 ### Checkout my Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [All-In-One Social Media Page](https://programmer101n.github.io/2021/07/05/all-in-one-social-media-page.html)
-- [Codetantra Programming Lab Solutions &lpar;Copy/Paste&rpar;](https://programmer101n.github.io/2021/06/15/codetantra-lab-solutions.html)
-- [Password Generator with NodeJS](https://programmer101n.github.io/2021/06/07/password-generator-with-nodejs.html)
-- [Projects to create with NodeJS in 2021](https://programmer101n.github.io/2021/05/30/projects-to-create-with-nodejs.html)
-- [Create Bot for your Discord server.](https://programmer101n.github.io/2021/05/26/create-bot-for-your-discord-server.html)
+- [All-In-One Social Media Page](https://prgmaz.github.io/2021/07/05/all-in-one-social-media-page.html)
+- [Codetantra Programming Lab Solutions &lpar;Copy/Paste&rpar;](https://prgmaz.github.io/2021/06/15/codetantra-lab-solutions.html)
+- [Password Generator with NodeJS](https://prgmaz.github.io/2021/06/07/password-generator-with-nodejs.html)
+- [Projects to create with NodeJS in 2021](https://prgmaz.github.io/2021/05/30/projects-to-create-with-nodejs.html)
+- [Create Bot for your Discord server.](https://prgmaz.github.io/2021/05/26/create-bot-for-your-discord-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -46,7 +46,7 @@
 
 <h3 align="left">Github Stats: </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer101n&show_icons=true&theme=dracula&locale=en&layout=compact" alt="programmer101n" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prgmaz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="prgmaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer101n&show_icons=true&theme=dracula&locale=en" alt="programmer101n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prgmaz&show_icons=true&theme=dracula&locale=en" alt="prgmaz" /></p>
 
